@@ -1,0 +1,15 @@
+# Sensitive local auth artifacts
+auth.json
+auth*.json
+account_usage_cache.json
+
+# Local Codex runtime data
+.codex/
+
+# macOS
+.DS_Store
+
+# Editor / shell noise
+*.swp
+*.swo
+*~
